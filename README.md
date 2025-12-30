@@ -47,5 +47,10 @@
 ## Tools
 
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+<a href="https://github.com/luizfreinoso/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizfreinoso&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/luizfreinoso/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizfreinoso&repo=convoychat" />
+</a>
 </div>
